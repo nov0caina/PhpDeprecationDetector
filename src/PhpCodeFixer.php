@@ -11,7 +11,7 @@ class PhpCodeFixer {
     /**
      * @var array
      */
-    static public $availableTargets = ['5.3', '5.4', '5.5', '5.6', '7.0', '7.1', '7.2', '7.3', '7.4', '8.0', '8.1'];
+    static public $availableTargets = ['5.3', '5.4', '5.5', '5.6', '7.0', '7.1', '7.2', '7.3', '7.4', '8.0', '8.1', '8.2', '8.3'];
 
     /**
      * @var array Extensions of file to process.
